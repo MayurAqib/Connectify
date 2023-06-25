@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "950141044596",
+    "project_id": "shoe-store-f8995",
+    "storage_bucket": "shoe-store-f8995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950141044596:android:3db14b0976d8543c100e21",
+        "android_client_info": {
+          "package_name": "com.example.connectify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950141044596-23196hga3rtvaf1jc0n2t6s350kpm6f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulD2pG66sfajBsmZs04JarOXAaV_-JM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950141044596-23196hga3rtvaf1jc0n2t6s350kpm6f5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "950141044596-li0v3i85nqri94ithrftfk8dl74c27d9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireBasePractice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
